@@ -1,7 +1,11 @@
 collections:
   Fast & Furious:
-    sync_mode: sync
-    collection_order: release
-    collection_mode: show_items
-
     tmdb_collection: 9485
+
+    sync_mode: sync
+    collection_mode: show_items
+    collection_order: release
+
+    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Fast%20%26%20Furious/poster.jpg
+    url_background: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Fast%20%26%20Furious/fanart.jpg
+    url_logo: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Fast%20%26%20Furious/clearlogo.png
