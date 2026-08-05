@@ -1,76 +1,121 @@
 collections:
 
-  1940s:
-    sort_title: "!01 - 1940s"
+  1910s:
+    sort_title: "!01 - 1910s"
     sync_mode: sync
     collection_order: release
+    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Decades/1910s.png
+    plex_search:
+      year.gte: 1910
+      year.lte: 1919
+
+  1920s:
+    sort_title: "!02 - 1920s"
+    sync_mode: sync
+    collection_order: release
+    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Decades/1920s.png
+    plex_search:
+      year.gte: 1920
+      year.lte: 1929
+
+  1930s:
+    sort_title: "!03 - 1930s"
+    sync_mode: sync
+    collection_order: release
+    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Decades/1930s.png
+    plex_search:
+      year.gte: 1930
+      year.lte: 1939
+
+  1940s:
+    sort_title: "!04 - 1940s"
+    sync_mode: sync
+    collection_order: release
+    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Decades/1940s.png
     plex_search:
       year.gte: 1940
       year.lte: 1949
 
   1950s:
-    sort_title: "!02 - 1950s"
+    sort_title: "!05 - 1950s"
     sync_mode: sync
     collection_order: release
+    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Decades/1950s.png
     plex_search:
       year.gte: 1950
       year.lte: 1959
 
   1960s:
-    sort_title: "!03 - 1960s"
+    sort_title: "!06 - 1960s"
     sync_mode: sync
     collection_order: release
+    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Decades/1960s.png
     plex_search:
       year.gte: 1960
       year.lte: 1969
 
   1970s:
-    sort_title: "!04 - 1970s"
+    sort_title: "!07 - 1970s"
     sync_mode: sync
     collection_order: release
+    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Decades/1970s.png
     plex_search:
       year.gte: 1970
       year.lte: 1979
 
   1980s:
-    sort_title: "!05 - 1980s"
+    sort_title: "!08 - 1980s"
     sync_mode: sync
     collection_order: release
+    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Decades/1980s.png
     plex_search:
       year.gte: 1980
       year.lte: 1989
 
   1990s:
-    sort_title: "!06 - 1990s"
+    sort_title: "!09 - 1990s"
     sync_mode: sync
     collection_order: release
+    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Decades/1990s.png
     plex_search:
       year.gte: 1990
       year.lte: 1999
 
   2000s:
-    sort_title: "!07 - 2000s"
+    sort_title: "!10 - 2000s"
     sync_mode: sync
     collection_order: release
+    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Decades/2000s.png
     plex_search:
       year.gte: 2000
       year.lte: 2009
 
   2010s:
-    sort_title: "!08 - 2010s"
+    sort_title: "!11 - 2010s"
     sync_mode: sync
     collection_order: release
+    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Decades/2010s.png
     plex_search:
       year.gte: 2010
       year.lte: 2019
 
   2020s:
-    sort_title: "!09 - 2020s"
+    sort_title: "!12 - 2020s"
     sync_mode: sync
     collection_order: release
+    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Decades/2020s.png
     plex_search:
       year.gte: 2020
       year.lte: 2029
+
+  2030s:
+    sort_title: "!13 - 2030s"
+    sync_mode: sync
+    collection_order: release
+    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Decades/2030s.png
+    plex_search:
+      year.gte: 2030
+      year.lte: 2039
 
   Fast & Furious:
     tmdb_collection: 9485
@@ -82,6 +127,5 @@ collections:
     sync_mode: sync
     collection_mode: show_items
     collection_order: release
-
     url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Fast%20%26%20Furious/poster.jpg
     url_background: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Fast%20%26%20Furious/fanart.jpg
