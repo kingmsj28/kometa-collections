@@ -1,5 +1,9 @@
 metadata:
 
+  ##################################################
+  # Fast & Furious
+  ##################################################
+
   9799: # The Fast and the Furious (2001) Poster by willtong93 on MediUX
     url_poster: https://api.mediux.pro/assets/cebc936a-2c7a-4b10-8914-f59c1d5b288c
 
@@ -24,11 +28,136 @@ metadata:
   337339: # The Fate of the Furious (2017) Poster by willtong93 on MediUX
     url_poster: https://api.mediux.pro/assets/9e6f0ec0-cf04-4398-bfc7-0aee2f516a85
 
+  384018: # Fast & Furious Presents: Hobbs & Shaw (2019) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/dada0c7f-b8a3-4c43-b052-ac7b68305b79
+
   385128: # F9 (2021) Poster by willtong93 on MediUX
     url_poster: https://api.mediux.pro/assets/24f87f46-4709-4d5d-8023-59c7ee908fa5
 
   385687: # Fast X (2023) Poster by willtong93 on MediUX
     url_poster: https://api.mediux.pro/assets/c489ee00-a90f-4e30-ad43-17b28f1b9953
 
-  384018: # Fast & Furious Presents: Hobbs & Shaw (2019) Poster by willtong93 on MediUX
-    url_poster: https://api.mediux.pro/assets/dada0c7f-b8a3-4c43-b052-ac7b68305b79
+
+  ##################################################
+  # Marvel Cinematic Universe
+  ##################################################
+
+  1726: # Iron Man (2008) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/138e0153-4eff-4ee3-92f4-9740a668df7f
+
+  1724: # The Incredible Hulk (2008) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/ca6ed4a2-ee71-40c4-8527-01d781512f13
+
+  10138: # Iron Man 2 (2010) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/a6f37990-dca0-4ae1-997c-c4ebebb69978
+
+  10195: # Thor (2011) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/11711f92-99b5-4fd7-b738-ea42895a40ac
+
+  1771: # Captain America: The First Avenger (2011) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/d4cd3866-6d68-4dc9-9ec9-a9ee8c1f4991
+
+  24428: # The Avengers (2012) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/abcd43f3-65b6-4ae0-914b-4090122ac6c1
+
+  68721: # Iron Man 3 (2013) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/ed77507e-7026-4446-9d21-a1604787be9b
+
+  76338: # Thor: The Dark World (2013) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/714150b4-a5e5-49be-9730-28621f6db013
+
+  100402: # Captain America: The Winter Soldier (2014) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/1e991243-b312-42fb-b460-2bb29a323b0c
+
+  118340: # Guardians of the Galaxy (2014) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/e6231a11-f36f-44ca-aca5-461300bf3f0d
+
+  102899: # Ant-Man (2015) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/5a6ba463-b3ce-40a4-8c4a-0d5acf110360
+
+  99861: # Avengers: Age of Ultron (2015) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/cb3499d9-b8b4-4b04-9558-30f17192738f
+
+  271110: # Captain America: Civil War (2016) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/4d37694c-04e4-49c1-bc7f-14efabcb202a
+
+  284052: # Doctor Strange (2016) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/810c19e5-af56-49d2-b8b1-47ad91c57bfc
+
+  283995: # Guardians of the Galaxy Vol. 2 (2017) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/0123d403-2923-49b8-a16c-3a530c4efa1c
+
+  315635: # Spider-Man: Homecoming (2017) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/30848807-e466-4c3a-b29d-ab69891866df
+
+  284053: # Thor: Ragnarok (2017) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/3f75a9ca-1bff-4bf9-9fbc-ce0a5e23581f
+
+  284054: # Black Panther (2018) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/5d2f31b8-deea-4e9d-9412-3b5345c47c74
+
+  299536: # Avengers: Infinity War (2018) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/0fb58410-22ec-4e0f-9407-cc279f46b57f
+
+  363088: # Ant-Man and the Wasp (2018) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/eb463947-53b5-4a05-a768-0c7a58e7b0cf
+
+  299534: # Avengers: Endgame (2019) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/6b96abe6-0aa3-4ef9-ad3a-da9896334540
+
+  299537: # Captain Marvel (2019) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/3ef9039c-ed38-4518-9b7f-3b4fe4582cad
+
+  429617: # Spider-Man: Far From Home (2019) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/66ae00ce-f172-4b91-a6fa-cdfaf10c7fe2
+
+  497698: # Black Widow (2021) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/c33c3567-16ae-48c4-b1d7-9be0bf30b096
+
+  524434: # Eternals (2021) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/0fee06fb-4a9d-4231-ba59-bd887bedf91e
+
+  566525: # Shang-Chi and the Legend of the Ten Rings (2021) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/4ec65efa-a6a1-482e-b344-42259f472361
+
+  634649: # Spider-Man: No Way Home (2021) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/104f277e-d77c-4b48-92ed-057f774f3065
+
+  894205: # Werewolf by Night (2022) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/96a22a43-0332-44b1-a2e9-e8d7b553a557
+
+  453395: # Doctor Strange in the Multiverse of Madness (2022) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/c1d9ae53-404f-4f85-a0ca-63e7db3d69c7
+
+  505642: # Black Panther: Wakanda Forever (2022) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/b152459c-c07e-46a3-8daa-09c96ebbf6ab
+
+  616037: # Thor: Love and Thunder (2022) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/8304b46d-492e-4e14-8aba-7b127c6f1813
+
+  774752: # The Guardians of the Galaxy Holiday Special (2022) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/138ca7e7-5ea9-424e-890b-07239c8abf1a
+
+  447365: # Guardians of the Galaxy Vol. 3 (2023) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/d69aaa00-68c5-4d7e-b561-ec2923608aa4
+
+  609681: # The Marvels (2023) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/cdcccb66-fe45-4fb4-b385-1416ddcb3732
+
+  640146: # Ant-Man and the Wasp: Quantumania (2023) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/287f53b2-c4fa-4462-bf41-13a80b59cbf6
+
+  533535: # Deadpool & Wolverine (2024) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/f27e2fcb-48bd-406a-8a7c-0b980672298f
+
+  822119: # Captain America: Brave New World (2025) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/f86cd17e-7024-4121-b73b-df58f833e69f
+
+  986056: # Thunderbolts* (2025) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/4ee3da9d-c0b0-48dc-866a-150adfa2ca19
+
+  617126: # The Fantastic 4: First Steps (2025) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/b24bd6e2-4fc6-4bce-a1d7-8db5a5e8bd7c
+
+  969681: # Spider-Man: Brand New Day (2026) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/22bb99c4-26a5-4b72-a389-e24701aeaacc
