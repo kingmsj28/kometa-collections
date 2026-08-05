@@ -140,3 +140,14 @@ collections:
 
     url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/MCU/poster.jpg
     # url_background:
+
+  Star Wars Universe:
+    imdb_list:
+      list_id: ls501373412
+
+    sync_mode: sync
+    collection_mode: show_items
+    collection_order: release
+
+    # url_poster: ...
+    # url_background: ...
