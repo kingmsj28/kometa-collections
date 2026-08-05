@@ -3,6 +3,5 @@ collections:
     sync_mode: sync
     collection_order: release
     collection_mode: show_items
-    sort_title: "Franchise - Fast & Furious"
 
     tmdb_collection: 9485
