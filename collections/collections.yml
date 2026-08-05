@@ -129,3 +129,14 @@ collections:
     collection_order: release
     url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Fast%20%26%20Furious/poster.jpg
     url_background: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Fast%20%26%20Furious/fanart.jpg
+
+  Marvel Cinematic Universe:
+    imdb_list:
+      list_id: ls539646485
+
+    sync_mode: sync
+    collection_mode: show_items
+    collection_order: release
+
+    # url_poster:
+    # url_background:
