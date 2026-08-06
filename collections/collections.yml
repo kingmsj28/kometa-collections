@@ -161,7 +161,7 @@ collections:
   View Askewniverse:
     sort_title: "!20 - Universe"
     mdblist_list:
-      url: https://mdblist.com/lists/k0meta/external/46553
+      url: https://mdblist.com/lists/k0meta/external/15362
     sync_mode: sync
     collection_mode: show_items
     collection_order: release
