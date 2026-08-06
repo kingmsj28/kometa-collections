@@ -185,6 +185,7 @@ collections:
   ##################################################
 
   Fast & Furious:
+    sort_title: "!30 - Franchise"
     tmdb_collection: 9485
     tmdb_movie:
       - 384018   # Fast & Furious Presents: Hobbs
