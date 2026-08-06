@@ -149,8 +149,8 @@ collections:
     collection_mode: show_items
     collection_order: release
     
-    # url_poster:
-    # url_background:
+    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/middle_earth/poster.jpeg
+    # url_background: 
 
   Star Wars Universe:
     sort_title: "!20 - Universe"
