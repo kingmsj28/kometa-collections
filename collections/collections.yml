@@ -138,8 +138,13 @@ collections:
 
   Middle Earth:
     sort_title: "!20 - Universe"
-    mdblist_list:
-      url: https://mdblist.com/lists/k0meta/external/46550
+    tmdb_movie:
+      - 120       # The Lord of the Rings: The Fellowship of the Ring (2001)
+      - 121       # The Lord of the Rings: The Two Towers (2002)
+      - 122       # The Lord of the Rings: The Return of the King (2003)
+      - 49051     # The Hobbit: An Unexpected Journey (2012)
+      - 57158     # The Hobbit: The Desolation of Smaug (2013)
+      - 122917    # The Hobbit: The Battle of the Five Armies (2014)
     sync_mode: sync
     collection_mode: show_items
     collection_order: release
@@ -160,8 +165,16 @@ collections:
 
   View Askewniverse:
     sort_title: "!20 - Universe"
-    mdblist_list:
-      url: https://mdblist.com/lists/k0meta/external/15362
+    tmdb_movie:
+      - 2292      # Clerks (1994)
+      - 2293      # Mallrats (1995)
+      - 2255      # Chasing Amy (1997)
+      - 1832      # Dogma (1999)
+      - 2294      # Jay and Silent Bob Strike Back (2001)
+      - 2295      # Clerks II (2006)
+      - 179267    # Jay & Silent Bob's Super Groovy Cartoon Movie! (2013)
+      - 440762    # Jay and Silent Bob Reboot (2019)
+      - 635891    # Clerks III (2022)
     sync_mode: sync
     collection_mode: show_items
     collection_order: release
@@ -171,8 +184,18 @@ collections:
 
   Wizarding World:
     sort_title: "!20 - Universe"
-    mdblist_list:
-      url: https://mdblist.com/lists/k0meta/external/23683
+    tmdb_movie:
+      - 671       # Harry Potter and the Sorcerer's Stone (2001)
+      - 672       # Harry Potter and the Chamber of Secrets (2002)
+      - 673       # Harry Potter and the Prisoner of Azkaban (2004)
+      - 674       # Harry Potter and the Goblet of Fire (2005)
+      - 675       # Harry Potter and the Order of the Phoenix (2007)
+      - 767       # Harry Potter and the Half-Blood Prince (2009)
+      - 12444     # Harry Potter and the Deathly Hallows: Part 1 (2010)
+      - 12445     # Harry Potter and the Deathly Hallows: Part 2 (2011)
+      - 259316    # Fantastic Beasts and Where to Find Them (2016)
+      - 338952    # Fantastic Beasts: The Crimes of Grindelwald (2018)
+      - 338953    # Fantastic Beasts: The Secrets of Dumbledore (2022)
     sync_mode: sync
     collection_mode: show_items
     collection_order: release
