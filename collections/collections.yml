@@ -149,5 +149,5 @@ collections:
     collection_mode: show_items
     collection_order: release
 
-    # url_poster: ...
-    # url_background: ...
+    url_poster: https://api.mediux.pro/assets/60209ad6-d0a8-4d55-a42a-ec0e9e1de3ae
+    url_background: https://api.mediux.pro/assets/a70c2519-7180-4b59-854b-742af7bf4ad2
