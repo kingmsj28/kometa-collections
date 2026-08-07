@@ -1,1 +1,21 @@
+collections:
 
+  ##################################################
+  # Franchises
+  ##################################################
+
+  Dexter Collection:
+    sort_title: "!30 - Franchise"
+
+    tmdb_show:
+      - 1405      # Dexter (2006)
+      - 131927    # Dexter: New Blood (2021)
+      - 219937    # Dexter: Original Sin (2024)
+      - 259909    # Dexter: Resurrection (2025)
+
+    sync_mode: sync
+    collection_mode: show_items
+    collection_order: release
+
+    # url_poster:
+    # url_background:
