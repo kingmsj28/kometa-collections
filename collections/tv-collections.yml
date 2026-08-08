@@ -4,10 +4,20 @@ collections:
   # Universes
   ##################################################
 
-  Marvel Cinematic Universe:
+    Marvel Cinematic Universe:
     sort_title: "!20 - Universe"
+
     imdb_list:
       list_id: ls539646485
+
+    tmdb_show:
+      - 138503   # Your Friendly Neighborhood Spider-Man (2025)
+      - 232125   # I Am Groot (2022)
+      - 241388   # Eyes of Wakanda (2025)
+      - 138505   # Marvel Zombies (2025)
+      - 213375   # VisionQuest (2026)
+      - 69088    # Agents of S.H.I.E.L.D.: Slingshot (2016)
+
     sync_mode: sync
     collection_mode: show_items
     collection_order: release
