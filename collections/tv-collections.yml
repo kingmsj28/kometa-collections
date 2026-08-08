@@ -46,7 +46,7 @@ collections:
     # url_background:
 
   ##################################################
-  # Breaking Bad Universe
+  # Breaking Bad Collection
   ##################################################
 
   Breaking Bad Collection:
@@ -60,15 +60,15 @@ collections:
     collection_mode: show_items
     collection_order: release
 
-    # url_poster:
+    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/tv-collections/Breaking-Bad-Collection.png
     # url_background:
 
   ##################################################
-  # The Boys Collection
+  # Vought Cinematic Universe
   ##################################################
 
-  The Boys Collection:
-    sort_title: "!30 - Franchise"
+  Vought Cinematic Universe:
+    sort_title: "!20 - Universe"
 
     tmdb_show:
       - 76479     # The Boys (2019)
@@ -79,15 +79,15 @@ collections:
     collection_mode: show_items
     collection_order: release
 
-    # url_poster:
+    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/tv-collections/VCU.png
     # url_background:
 
 
   ##################################################
-  # Game of Thrones Collection
+  # World of Ice and Fire
   ##################################################
 
-  Game of Thrones Collection:
+  World of Ice and Fire:
     sort_title: "!30 - Franchise"
 
     tmdb_show:
@@ -98,5 +98,5 @@ collections:
     collection_mode: show_items
     collection_order: release
 
-    # url_poster:
+    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/tv-collections/World-of-Ice-and-Fire.png
     # url_background:
