@@ -241,12 +241,12 @@ metadata:
   ##################################################
 
   412366: # TVDB id for Dexter: New Blood - MediUX set 23082 by willtong93
-    url_poster: https://api.mediux.pro/assets/2455c206-917f-4e0e-b242-25c24903aa93
+    url_poster: https://api.mediux.pro/assets/65557dbc-262b-4dc8-a2e2-960b2b9a95e0
     url_background: https://api.mediux.pro/assets/2ae96d58-d86c-4351-9398-4577f7953bed
 
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/8d4fcb00-6739-4015-8211-efa76f348bcb
+        url_poster: https://api.mediux.pro/assets/7c50fb63-663f-4d62-8498-1689821e7912
 
         episodes:
           1:
@@ -275,7 +275,7 @@ metadata:
   ##################################################
 
   430780: # TVDB id for Dexter: Original Sin - MediUX set 29252 by willtong93
-    url_poster: https://api.mediux.pro/assets/bb286b06-72be-43b7-ab55-ab11f1013e06
+    url_poster: https://api.mediux.pro/assets/690e3e92-8e0c-4dd5-92b8-06db0f070b58
     url_background: https://api.mediux.pro/assets/8cc334c1-5921-49ca-a751-3f4b2fcfd18c
 
     seasons:
@@ -309,12 +309,12 @@ metadata:
   ##################################################
 
   452595: # TVDB id for Dexter: Resurrection - MediUX set 35545 by willtong93
-    url_poster: https://api.mediux.pro/assets/c6862464-eb9b-4c71-a4f9-544986c4823f
+    url_poster: https://api.mediux.pro/assets/d72706fe-fba8-4bf6-9787-1a0c052f8df9
     url_background: https://api.mediux.pro/assets/cea0427e-0b1b-4370-9615-6847e4ecff53
 
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/d405cb4f-c395-49c3-b423-4ae55f8f0190
+        url_poster: https://api.mediux.pro/assets/e3620ccf-e75d-439a-a0f5-7025df1b5bb6
 
         episodes:
           1:
