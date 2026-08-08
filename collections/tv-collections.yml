@@ -1,7 +1,7 @@
 collections:
 
   ##################################################
-  # Universes
+  # Marvel Television Universe
   ##################################################
 
   Marvel Cinematic Universe:
@@ -26,7 +26,7 @@ collections:
     # url_background:
 
   ##################################################
-  # Franchises
+  # Dexter Collection
   ##################################################
 
   Dexter Collection:
@@ -43,4 +43,60 @@ collections:
     collection_order: release
 
     url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/tv-collections/Dexter-Collection.png
+    # url_background:
+
+  ##################################################
+  # Breaking Bad Universe
+  ##################################################
+
+  Breaking Bad Collection:
+    sort_title: "!30 - Franchise"
+
+    tmdb_show:
+      - 1396      # Breaking Bad (2008)
+      - 60059     # Better Call Saul (2015)
+
+    sync_mode: sync
+    collection_mode: show_items
+    collection_order: release
+
+    # url_poster:
+    # url_background:
+
+  ##################################################
+  # The Boys Collection
+  ##################################################
+
+  The Boys Collection:
+    sort_title: "!30 - Franchise"
+
+    tmdb_show:
+      - 76479     # The Boys (2019)
+      - 205715    # Gen V (2023)
+      - 119279    # The Boys Presents: Diabolical (2022)
+
+    sync_mode: sync
+    collection_mode: show_items
+    collection_order: release
+
+    # url_poster:
+    # url_background:
+
+
+  ##################################################
+  # Game of Thrones Collection
+  ##################################################
+
+  Game of Thrones Collection:
+    sort_title: "!30 - Franchise"
+
+    tmdb_show:
+      - 1399      # Game of Thrones (2011)
+      - 94997     # House of the Dragon (2022)
+
+    sync_mode: sync
+    collection_mode: show_items
+    collection_order: release
+
+    # url_poster:
     # url_background:
